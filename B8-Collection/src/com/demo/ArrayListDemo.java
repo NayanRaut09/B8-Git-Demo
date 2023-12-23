@@ -15,6 +15,8 @@ public class ArrayListDemo {
 		arrayList.add("Kiran");
 		arrayList.add("Pratik");
 		arrayList.add("Pawan");
+		arrayList.add("Harshad");
+		arrayList.add("Sidharth");
 		
 		for(String s : arrayList) {
 			System.out.println(s);
