@@ -12,7 +12,6 @@ public class ArrayListDemo {
 		arrayList.add("Ram");
 		arrayList.add("Sejal");
 		arrayList.add("Sonal");
-		arrayList.add("Kiran");
 		arrayList.add("Pratik");
 		arrayList.add("Pawan");
 		arrayList.add("Harshad");
